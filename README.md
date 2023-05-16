@@ -1,12 +1,3 @@
-# 商业转载请联系作者获得授权，非商业转载请注明出处。
-# For commercial use, please contact the author for authorization. For non-commercial use, please indicate the source.
-# 协议(License)：署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)
-# 作者(Author)：Yremp
-# 链接(URL)：https://yremp.live/github-pages-ipa/
-# 来源(Source)：
-
-已经有APP的IPA文件，如何制作一个在线安装页面呢？前面说了 苹果iOS小火箭(Shadowrocket)在线下载安装教程 ，我就是利用Github Pages 服务制作了那个在线安装页面 。整体来说还是很简单的，需要一定的Git基础。下面就给大家介绍一下如何 github pages制作网页在线安装IPA教程 。
-
 资源准备
 准备好下面的文件，可以直接下载我的小火箭(Shadoerocket)在线安装仓库修改一下对应文件
 
@@ -65,5 +56,3 @@ ipa.plist 文件
            </div>
   </span>
 修改https://52bp.github.io/shadowrocket/ipa.plist为你自己的 ipa.plist URL即可，剩下的html内容就是前端展示相关，自己修改，修改完推送到Github仓库即可。
-
-在线演示地址
